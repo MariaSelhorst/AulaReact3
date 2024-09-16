@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.contador-container{
+    text-align: center;
+    margin-top: 400px;
+}
+
+.notification{
+    text-align: center;
+    color: tomato;
+}
